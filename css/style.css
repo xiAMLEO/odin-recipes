@@ -1,0 +1,38 @@
+h1,
+h2,
+h3{
+    color: white;
+    background-color: rgb(255, 73, 41);
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 24px;
+    background-color: rgb(255, 255, 182);
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+.ingredients,
+.steps{
+    font-size:20px;
+    color: white;
+}
+
+.ingredients{
+    background-color: rgb(0, 0, 255);
+}
+.steps{
+    background-color: rgb(0, 117, 0);
+}
